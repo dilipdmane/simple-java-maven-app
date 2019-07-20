@@ -7,7 +7,7 @@ public class App
 {
 
     private final String message = "Hello World!";
-    private String name = "";
+    private String name = "Dilip Mane";
 
     public App() {}
 
